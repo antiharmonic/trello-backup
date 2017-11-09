@@ -5,7 +5,7 @@ Trello-Backup
 Requirements
 ---
 This is a simple php script which requires PHP installed on your system:
-`sudo apt-get install php5`
+`sudo apt-get install php7`
 
 Usage
 ---
